@@ -7,5 +7,10 @@ pn.extension("plotly")
 
 
 class Dashboard(RandomWalk):
+    """_summary_
+
+    :param RandomWalk: _description_
+    :type RandomWalk: _type_
+    """    
     def __init__(self):
         pass
